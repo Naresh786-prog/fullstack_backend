@@ -5,6 +5,10 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+
+//Name: Ramanathan Narasimman
+//Index No: GSCOMP101
+
 @Entity
 public class User {
     @Id
